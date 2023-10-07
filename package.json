@@ -1,0 +1,27 @@
+{
+  "name": "quiz-by-kashif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "type": "module",
+  "bin": {
+    "quiz-by-kashif": "dist/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.8.2",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.11",
+    "node": "^20.7.0",
+    "node-banner": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3"
+  }
+}
